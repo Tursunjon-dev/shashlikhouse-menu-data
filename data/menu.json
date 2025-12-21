@@ -6,48 +6,6 @@
   },
   "items": [
     {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
       "id": 1,
       "title": "",
       "category": "блюда",
@@ -410,34 +368,7 @@
       "category": "блюда",
       "price": 0,
       "image": "viko_reazvor.webp"
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
-    },
-    {
-      "id": 0,
-      "title": "",
-      "category": "",
-      "price": 0,
-      "image": ""
     }
+   
   ]
 }
