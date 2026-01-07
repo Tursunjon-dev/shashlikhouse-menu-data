@@ -39,6 +39,13 @@
       "price": 15000,
       "image": "borjomi.webp"
     },
+     {
+      "id": 431,
+      "title": "Sprite",
+      "category": "Ichimlik",
+      "price": 12088,
+      "image": "sprite.webp"
+    },
     {
       "id": 2,
       "title": "Chortoq",
@@ -326,13 +333,7 @@
       "price": 18000,
       "image": "sosiska.webp"
     },
-    {
-      "id": 431,
-      "title": "Sprite",
-      "category": "Ichimlik",
-      "price": 12000,
-      "image": "sprite.webp"
-    },
+   
     {
       "id": 44,
       "title": "Steak V2",
